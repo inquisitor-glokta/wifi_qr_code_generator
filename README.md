@@ -92,11 +92,10 @@ pip install PyQt6 qrcode pillow
 
 ## 🛠 Project Structure
 ```
-text-to-audio/
-│
-├─ app.py # Main application        # Main application
-├─ desktop.py # Main application    # First version
-├─ app _withouth_text_limitation.py # Main application
+wifi_qr_code_generator/
+│ 
+├─ desktop.py # Main application    # Main application
+├─ gui.png # Screenshot of application (optional)
 ├─ ico.ico # Window icon (optional)
 ├─ requirements.txt # Dependencies
 └─ README.md # This file
